@@ -1,0 +1,1 @@
+A simple graphics project of Tower of Hanoi. It is implemented for 3 plates. And the code is written in C.
